@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 #Listening ports with PID and program name
 
 netstat -l -p
